@@ -1,0 +1,14 @@
+name = Sample App
+description = Sample App is used to show how apps work
+machine_name = sample_app
+version = 1.0
+downloadable = sample_app 1.0
+author = Vejle Idrætshøjskole
+author_url = http://vih.dk
+screenshots[] = screenshot.jpg
+logo = logo.png
+dependencies[views] = views 3.0-beta3
+dependencies[ctools] = ctools 1.0-alpha4
+downloadables[views 3.0-beta3] = http://ftp.drupal.org/files/projects/views-7.x-3.0-beta3.tar.gz
+downloadables[ctools 1.0-alpha4] = http://ftp.drupal.org/files/projects/ctools-7.x-1.0-alpha4.tar.gz
+downloadables[sample_app 1.0] = http://github.com/lsolesen/sample-app/zipball
