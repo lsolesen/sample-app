@@ -1,0 +1,7 @@
+name = "Sample App"
+description = "Sample app"
+core = "7.x"
+package = "Other"
+php = "5.2.4"
+dependencies[] = "views"
+
